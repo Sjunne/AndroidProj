@@ -8,7 +8,7 @@ The user will be able to book these modules for a specific time, setting up his 
 
 
 <details>
-<summary>#Requirements</summary>
+<summary><b>Requirements</b></summary>
 <br>
 # High:
 1) As an administrator I want to be able to register all my equipment, as well as inserting specific information regarding user regulations, timetables, and safety information.
