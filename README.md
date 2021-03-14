@@ -10,7 +10,8 @@ The user will be able to book these modules for a specific time, setting up his 
 <details>
 <summary><b>Requirements</b></summary>
 <br>
-#High:
+
+# High:
 1) As an administrator I want to be able to register all my equipment, as well as inserting specific information regarding user regulations, timetables, and safety information.
 2) As a user I want to be able to book training modules for a specific period, because we want the gyms open again. 
 
