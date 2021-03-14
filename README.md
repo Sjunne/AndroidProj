@@ -6,8 +6,10 @@ Both actors will have login functions.
 The administrator will be able to log in all his training equipment, with unique identifiers for every single module. He will also be able to set up schedules for time/space managements, E.g., setting a treadmill for max 30 min use and not double booking 2 “neighboring” treadmills at the same time.
 The user will be able to book these modules for a specific time, setting up his training routine from home, knowing he will be able to use these modules in a sequence without them being double booked or having issues with maintaining the regulations set for public spacing. 
 
-# Requirements:
 
+<details>
+<summary>#Requirements</summary>
+<br>
 # High:
 1) As an administrator I want to be able to register all my equipment, as well as inserting specific information regarding user regulations, timetables, and safety information.
 2) As a user I want to be able to book training modules for a specific period, because we want the gyms open again. 
@@ -23,3 +25,4 @@ The user will be able to book these modules for a specific time, setting up his 
 5) As an administrator I want to have the ability to broadcast information incase of emergencies or change of policies.
 6) As a user I want to be able to insert my training data after my period, E.g. running speed, sets and weights because all data can be used for future regulations.
 
+</details>
