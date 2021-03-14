@@ -8,7 +8,7 @@ The user will be able to book these modules for a specific time, setting up his 
 
 
 <details>
-<summary><b><h3>Requirements</h3></b></summary>
+<summary><b>Requirements</b></summary>
 <br>
 
 # High:
