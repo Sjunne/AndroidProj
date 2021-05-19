@@ -24,6 +24,6 @@ The user will be able to book these modules for a specific time, setting up his 
 
 # Low:
 5) As an administrator I want to have the ability to broadcast information incase of emergencies or change of policies.
-6) As a user I want to be able to insert my training data after my period, E.g. running speed, sets and weights because all data can be used for future regulations.
+6) As a user I want to be able to see a overview of my training activities as a form of statistics, which equipment have i used this week and how many times?
 
 </details>
