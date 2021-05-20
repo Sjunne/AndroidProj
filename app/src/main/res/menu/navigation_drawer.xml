@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:id="@+id/equipmentAdminView">
+        <item
+            android:id="@+id/register_equipment"
+            android:icon="@drawable/ic_baseline_add_24"
+            android:title="@string/register_equipment" />
+
+        <item
+            android:id="@+id/edit_equipment"
+            android:icon="@drawable/ic_baseline_edit_24"
+            android:title="@string/edit_or_delete_equipment" />
+    </group>
+    <group android:id="@+id/equipmentBook">
+    <item
+            android:id="@+id/book_equipment"
+            android:icon="@drawable/ic_baseline_add_24"
+            android:title="Book Equipment" />
+
+    <item
+            android:id="@+id/nav_cancelBookings"
+            android:icon="@drawable/ic_baseline_edit_24"
+            android:title="Cancel Bookings" />
+        <item
+            android:id="@+id/nav_stats"
+            android:icon="@drawable/ic_baseline_edit_24"
+            android:title="Check Stats" />
+    </group>
+    <group android:id="@+id/logout">
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_baseline_power_settings_new_24"
+            android:title="@string/logout_now" />
+    </group>
+</menu>

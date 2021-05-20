@@ -1,0 +1,39 @@
+{
+    "project_info": {
+        "project_number": "1010785322053",
+        "project_id": "andapp-f3e57",
+        "storage_bucket": "andapp-f3e57.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:1010785322053:android:5fd86feba7189f0f38cf2c",
+                "android_client_info": {
+                    "package_name": "com.example.andapp"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "1010785322053-m6bnbj855nbm2sn9c5r730d8e9klf9m1.apps.googleusercontent.com",
+                    "client_type": 3
+        }
+      ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyA_-HIqgm9oP_6R8bo2szkaEeSRvLdk54U"
+        }
+      ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "1010785322053-m6bnbj855nbm2sn9c5r730d8e9klf9m1.apps.googleusercontent.com",
+                            "client_type": 3
+            }
+          ]
+                }
+            }
+    }
+  ],
+    "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ANDAPP</string>
+    <string name="action_settings" />
+    <string name="action_favorite" />
+    <string name="logout" />
+    <string name="rate_app" />
+    <string name="register_user">Register User</string>
+    <string name="delete_user">delete user</string>
+    <string name="register_equipment">register equipment</string>
+    <string name="edit_or_delete_equipment">edit equipment</string>
+    <string name="logout_now">logout</string>
+    <string name="Home">Home Page</string>
+    <string name="equipment_photo">Equipment_Photo</string>
+    <string name="browse">Browse</string>
+    <string name="equipment_amount">Equipment Amount:</string>
+    <string name="category">Category:</string>
+    <string name="submit">Submit</string>
+    <string name="register_equipment_capital">Register Equipment</string>
+    <string name="upload_image">Upload Image:</string>
+    <string name="social_distancing_feature">Social Distancing Feature</string>
+    <string name="edit_equipment">Edit Equipment</string>
+    <string name="amount">Amount:</string>
+    <string name="book_equipment">Book equipment</string>
+    <string name="book">Book</string>
+    <string name="every_equipment_will_be_booked_for_30_min">Every equipment will be booked for 30 min.</string>
+    <string name="cancel_booking">Cancel Booking</string>
+    <string name="don_t_wait_until_you_ve_reached_your_goal_to_be_proud_of_yourself_be_proud_of_every_step_you_take_toward_reaching_that_goal_unknown">Don\'t wait until you\'ve reached your goal to be proud of yourself. Be proud of every step you take toward reaching that goal. - unknown</string>
+    <string name="motivation_is_what_gets_you_started_habit_is_what_keeps_you_going_jim_ryin">Motivation is what gets you started. Habit is what keeps you going. - Jim Ryin</string>
+    <string name="welcome">Welcome</string>
+</resources>

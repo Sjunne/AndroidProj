@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/admin_home">
+
+    <fragment
+        android:id="@+id/admin_home"
+        android:name="com.example.andapp.view.FrontPage.HomeFragment"
+        android:label="@string/Home"
+        tools:layout="@layout/admin_home_page_fragment" />
+
+    <fragment
+        android:id="@+id/register_equipment"
+        android:name="com.example.andapp.view.RegisterEquipment.RegisterEquipmentFragment"
+        android:label="Register Equipment"
+        tools:layout="@layout/register_equipment" />
+
+    <fragment
+        android:id="@+id/edit_equipment"
+        android:name="com.example.andapp.view.EditEquipment.EditEquipmentFragment"
+        android:label="Edit Equipment"
+        tools:layout="@layout/edit_equipment_fragment" />
+
+    <fragment
+        android:id="@+id/book_equipment"
+        android:name="com.example.andapp.view.BookEquipment.BookEquipmentFragment"
+        android:label="Book Equipment"
+        tools:layout="@layout/equipment_booking_fragment" />
+
+    <fragment
+        android:id="@+id/nav_cancelBookings"
+        android:name="com.example.andapp.view.CancelBooking.CancelBookingFragment"
+        android:label="Cancel Booking"
+        tools:layout="@layout/cancel_bookings_fragment" />
+
+    <fragment
+        android:id="@+id/nav_stats"
+        android:name="com.example.andapp.view.CheckStatistics.StatisticsFragment"
+        android:label="Stats Booking"
+        tools:layout="@layout/statistics_fragment" />
+
+
+</navigation>
