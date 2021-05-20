@@ -1,5 +1,6 @@
 # AndroidProj
 https://youtu.be/qw-zemJjF2o
+Note: Alt koden ligger på Master Branch, og Readme. ligger på Main
 
 # Virus-friendly workout booking App:
 Having been in isolation for quite a while, new and selective modules may be needed to help us regain some of our luxuries in society. My idea is to make an application that contains 2 actors: the user, and the administrator. 
