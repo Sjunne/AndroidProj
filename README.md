@@ -27,3 +27,6 @@ The user will be able to book these modules for a specific time, setting up his 
 6) As a user I want to be able to see a overview of my training activities as a form of statistics, which equipment have i used this week and how many times?
 
 </details>
+
+
+Pie Chart hjælp: https://github.com/AnyChart/AnyChart-Android
